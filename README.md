@@ -34,3 +34,5 @@ Want to learn a little bit with me? Read my blogs and send me a message with any
     ]
 }
 ```
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioMachadoFF&show_icons=true&hide_border=true)
