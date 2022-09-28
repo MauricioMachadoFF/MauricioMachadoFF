@@ -35,4 +35,10 @@ Want to learn a little bit with me? Read my blogs and send me a message with any
 }
 ```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioMachadoFF&show_icons=true&hide_border=true)
+<a href="https://github.com/MauricioMachadoFF/github-readme-stats">
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMachadoFF&hide=jupyter%20notebook,html&layout=compact&theme=dracula" />
+</a>
+
+<a href="https://github.com/MauricioMachadoFF/github-readme-statst">
+  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=MauricioMachadoFF&show_icons=true&theme=dracula" />
+</a>
